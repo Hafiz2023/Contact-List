@@ -20,13 +20,13 @@ export const contactData = [
   {
     id: 4,
     image: "/contact.png",
-    name: "Waheed Siddique",
+    name: "Hafiz M Fawad",
     contact: "03xxxxxxxxx",
   },
   {
     id: 5,
     image: "/contact.png",
-    name: "Imran Jutt",
+    name: "Rana Mudasir",
     contact: "03xxxxxxxxx",
   },
   {
@@ -76,6 +76,12 @@ export const contactData = [
     id: 13,
     image: "/contact.png",
     name: "Ahmed Bilal",
+    contact: "03xxxxxxxxx",
+  },
+  {
+    id: 14,
+    image: "/contact.png",
+    name: "Shahbaz",
     contact: "03xxxxxxxxx",
   },
 ];
