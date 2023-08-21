@@ -1,6 +1,5 @@
-"use client";
+"use client"
 import { Avatar } from "@nextui-org/react";
-import Image from "next/image";
 import { contactData } from "../app/mock";
 import Link from "next/link";
 
